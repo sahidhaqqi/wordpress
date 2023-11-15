@@ -27,7 +27,7 @@ FLUSH PRIVILEGES;
 EOF
 
 # Download WordPress
-wget https://wordpress.org/latest.zip -y
+wget https://wordpress.org/latest.zip
 
 sudo apt-get install unzip
 
